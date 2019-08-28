@@ -1,0 +1,1 @@
+export {CatalogNavItem} from './CatalogNavItem';

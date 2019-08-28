@@ -1,0 +1,17 @@
+.subsDescr {
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.8;
+    font-weight: 500;
+    color: gray;
+    width: 560px;
+    height: 60px;
+    text-align: left;
+}
+.subsDescr h2 {
+    margin: 0;
+    font-size: 22px;
+    line-height: 1.5;
+    font-weight: 500;
+    color: #000000;
+}

@@ -1,0 +1,8 @@
+.footerInfoContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.footerInfoContainer li {
+    list-style: none;
+}

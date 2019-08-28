@@ -1,0 +1,1 @@
+export {ShopPageTitleBloc} from './ShopPageTitleBloc';

@@ -1,0 +1,41 @@
+.shopPageBg {
+    width: 100%;
+    position: relative;
+    padding: 10em 0;
+    background-image: url(../../../images/bg_1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.content {
+    font-family: "Poppins", Arial, sans-serif;
+    text-align: center !important;
+    position: relative;
+    width: 100%;
+}
+.content a {
+    color: #fff;
+}
+.shopPageBg p {
+    margin: 0;
+    font-weight: 500;
+    text-align: center !important;
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 3px;
+    line-height: 1.8;
+}
+.shopPageBg span {
+    margin-right: 20px;
+}
+.shopPageTitle {
+    margin: 0;
+    font-weight: 800;
+    color: #fff;
+    font-size: 30px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,41 @@
+.subscrForm {
+    width: 560px;
+    height: 60px;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: gray;
+}
+.subscrForm form {
+    height: 60px;
+    text-align: center;
+}
+.subscrTextInput {
+    font-family: "Poppins", Arial, sans-serif;
+    height: 90%;
+    width: 70%;
+    padding: 10px;
+    background: #fff !important;
+    border: 1px solid transparent;
+    color: black !important;
+    font-size: 14px;
+    font-weight: 400;
+    box-sizing: border-box;
+}
+.subscrBtn {
+    font-family: "Poppins", Arial, sans-serif;
+    margin: auto;
+    padding: 0;
+    width: 95px;
+    cursor: pointer;
+    height: 90%;
+    border-left: 1px solid #82ae46;
+    color: #fff !important;
+    border-radius: 0;
+    font-size: 12px;
+    background: #82ae46 !important;
+    box-sizing: border-box;
+}

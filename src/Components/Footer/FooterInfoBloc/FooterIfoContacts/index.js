@@ -1,0 +1,1 @@
+export {FooterIfoContacts} from './FooterIfoContacts';

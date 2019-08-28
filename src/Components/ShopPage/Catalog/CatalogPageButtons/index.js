@@ -1,0 +1,1 @@
+export {CatalogPageButtons} from './CatalogPageButtons';

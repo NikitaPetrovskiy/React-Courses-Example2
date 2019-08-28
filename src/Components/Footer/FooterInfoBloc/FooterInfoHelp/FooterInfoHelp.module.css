@@ -1,0 +1,13 @@
+.footerHelpContainer {
+    margin: 0;
+}
+.footerList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footerList li {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center;
+}

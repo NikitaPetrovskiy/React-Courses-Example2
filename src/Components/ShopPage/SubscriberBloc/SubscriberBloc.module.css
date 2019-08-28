@@ -1,0 +1,9 @@
+.subscriberContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: baseline;
+    padding: 4em 35px;
+    position: relative;
+    background: #f7f6f2 !important;
+}

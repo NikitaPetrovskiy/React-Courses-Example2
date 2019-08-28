@@ -1,0 +1,15 @@
+.bgPrimary {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    line-height: 1.8;
+    background: #82ae46;
+    font-family: "Poppins", Arial, sans-serif;
+}
+.text {
+    font-size: 11px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+}

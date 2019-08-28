@@ -1,0 +1,1 @@
+export {FooterCopyrightBloc} from './FooterCopyrightBloc';

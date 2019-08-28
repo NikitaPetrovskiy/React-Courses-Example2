@@ -1,0 +1,9 @@
+.catalogList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 90%;
+    padding: 0 15px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
