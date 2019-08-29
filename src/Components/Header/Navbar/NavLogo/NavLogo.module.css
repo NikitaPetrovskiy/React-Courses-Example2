@@ -1,0 +1,22 @@
+.navbarBrand {
+    font-family: "Poppins", Arial, sans-serif;
+    color: #82ae46;
+    font-weight: 800;
+    font-size: 20px;
+    text-transform: uppercase;
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+a {
+    transition: .3s all ease;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+}
+.navbarBrand:hover {
+    color: black;
+}

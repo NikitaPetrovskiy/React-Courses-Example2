@@ -1,0 +1,10 @@
+.navBarList {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    font-family: "Poppins", Arial, sans-serif;
+    background: #fff;
+    font-size: 15px;
+    line-height: 1.8;
+    font-weight: 400;
+}

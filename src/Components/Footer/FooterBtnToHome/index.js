@@ -1,0 +1,1 @@
+export {FooterBtnToHome, BTNICON} from './FooterBtnToHome';
